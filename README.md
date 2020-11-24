@@ -45,8 +45,8 @@ Decentralized websites using Bitcoin crypto and the BitTorrent network - https:/
   signature), they download the modified files and publish the new content to
   other peers.
 
-####  [Slideshow about ZeroNet cryptography, site updates, multi-user sites »](https://docs.google.com/presentation/d/1_2qK1IuOKJ51pgBvllZ9Yu7Au2l551t3XBgyTSvilew/pub?start=false&loop=false&delayms=3000)
-####  [Frequently asked questions »](https://zeronet.io/docs/faq/)
+####  [Slideshow about Spidercryptography, site updates, multi-user sites »](https://docs.google.com/presentation/d/1_2qK1IuOKJ51pgBvllZ9Yu7Au2l551t3XBgyTSvilew/pub?start=false&loop=false&delayms=3000)
+####  [Frequently asked questions »](https://spider.io/docs/faq/)
 
 ####  [ZeroNet Developer Documentation »](https://zeronet.io/docs/site_development/getting_started/)
 
@@ -54,9 +54,9 @@ Decentralized websites using Bitcoin crypto and the BitTorrent network - https:/
 ## Screenshots
 
 ![Screenshot](https://i.imgur.com/H60OAHY.png)
-![ZeroTalk](https://zeronet.io/docs/img/zerotalk.png)
+![SpiderTalk](https://Spider.io/docs/img/zerotalk.png)
 
-#### [More screenshots in ZeroNet docs »](https://zeronet.io/docs/using_zeronet/sample_sites/)
+#### [More screenshots in ZeroNet docs »](https://spider.io/docs/using_zeronet/sample_sites/)
 
 
 ## How to join
