@@ -1,6 +1,6 @@
-# )
+# Build
 
-Decentralized websites using Bitcoin crypto and the BitTorrent network - https://zeronet.io / [onion](http://zeronet34m3r5ngdu54uj57dcafpgdjhxsgq5kla5con4qvcmfzpvhad.onion)
+Decentralized websites using Bitcoin crypto and the SPIDER network - https://spider.io / [onion](http://spider34m3r5ngdu54uj57dcafpgdjhxsgq5kla5con4qvcmfzpvhad.onion)
 
 
 ## Why?
