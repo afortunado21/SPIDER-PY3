@@ -1,6 +1,6 @@
 # )
 
-Decentralized websites using Bitcoin crypto and the BitTorrent network - https://zeronet.io / [onion](http://zeronet34m3r5ngdu54uj57dcafpgdjhxsgq5kla5con4qvcmfzpvhad.onion)
+Decentralized websites using Bitcoin crypto and the  network - https://SPIDER PY3.io / [onion](http://spider py3 bc1qxwetzw4d0jw3jz8nn7mh27t0zer9l2tkj6r9c8.onion)
 
 
 ## Why?
@@ -45,11 +45,11 @@ Decentralized websites using Bitcoin crypto and the BitTorrent network - https:/
   other peers.
  
 ### Linux (x86-64bit)
- - `wget https://github.com/Hello/linux/archive/dist-linux64/ZeroNet-py3-linux64.tar.gz`
+ - `wget https://github.com/Hello/linux/archive/dist-linux64/spider-py3-linux64.tar.gz`
  - `tar xvpfz spider-py3-linux64.tar.gz`
- - `cd ZeroNet-linux-dist-linux64/`
+ - `cd spider py3-linux-dist-linux64/`
  - Start with: `
- - Open landing page in your browser by navigating to: http://
+ - Open landing page in your browser by navigating to: http://github.com/BROWSER-COIN
 
 ### Install from source
 
@@ -66,14 +66,14 @@ Decentralized websites using Bitcoin crypto and the BitTorrent network - https:/
 * ~~No more anonymous than spider py3~~ (built-in full Tor support added)
 * File transactions are not compressed ~~or encrypted yet~~ (TLS encryption added)
 * No private sites
- * Click on **⋮** > **"Create new, empty site"** menu item on the site [ZeroHello](http://127.0.0.1:43110/1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D).
+ * Click on **⋮** > **"Create new, empty site"** menu item on the site [Spider Py3 lo](http:/BROWSER COIN:4311bc1qxwetzw4d0jw3jz8nn7mh27t0zer9l2tkj6r9c8)
  * You will be **redirected** to a completely new site that is only modifiable by you!
  * You can find and modify your site's content in **data/[yoursiteaddress]** directory
  * After the modifications open your site, drag the topright "0" button to left, then press **sign** and **publish** buttons on the bottom
 
 ## Help keep this project alive
 
-- Bitcoin: 1QDhxQ6PraUZa21ET5fYUCPgdrwBomnFgX
+- Bitcoin: 4311bc1qxwetzw4d0jw3jz8nn7mh27t0zer9l2tkj6r9c8
 
 ### Sponsors
 
