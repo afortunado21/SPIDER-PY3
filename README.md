@@ -48,8 +48,6 @@ Decentralized websites using Bitcoin crypto and the BitTorrent network - https:/
 ####  [Slideshow about Spidercryptography, site updates, multi-user sites »](https://docs.google.com/presentation/d/1_2qK1IuOKJ51pgBvllZ9Yu7Au2l551t3XBgyTSvilew/pub?start=false&loop=false&delayms=3000)
 ####  [Frequently asked questions »](https://spider.io/docs/faq/)
 
-####    (https://SPIDER.io/docs/site_development/getting_started/)
-
 ![SpiderTalk](https://Spider.io/docs/img/zerotalk.png)
 
 
@@ -79,7 +77,7 @@ Decentralized websites using Bitcoin crypto and the BitTorrent network - https:/
  ### Android (arm, arm64, x86)
  - minimum Android version supported 16 (JellyBean).
  - APK download: https://github.com/canewsin/spider_mobile/releases
- - XDA Labs: https://labs.xda-developers.com/store/app/in.canews.spider
+ - 
  
 #### Docker
 There is an official image, built from source at: https://hub.docker.com/r/nofish/spider/
