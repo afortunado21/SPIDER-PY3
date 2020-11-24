@@ -1,4 +1,4 @@
-# SPIDER PY3 [![Build Status](https://travis-ci.org/Hello spider PY3/spider.svg?branch=py3)](https://travis-ci.org/Spider/spider) [![Documentation](https://img.shields.io/badge/docs-faq-brightgreen.svg)](https://SPIDER PY3.io/docs/faq/) [![Help](https://img.shields.io/badge/keep_this_project_alive-donate-yellow.svg)](https://zeronet.io/docs/help_zeronet/donate/) ![tests](https://github.com/HelloSpider/spider/workflows/tests/badge.svg) [![Docker Pulls](https://img.shields.io/docker/pulls/nofish/SPIDER PY3)](https://hub.docker.com/r/nofish/spider)
+JijI# SPIDER PY3 [![Build Status](https://travis-ci.org/Hello spider PY3/spider.svg?branch=py3)](https://travis-ci.org/Spider/spider) [![Documentation](https://img.shields.io/badge/docs-faq-brightgreen.svg)](https://SPIDER PY3.io/docs/faq/) [![Help](https://img.shields.io/badge/keep_this_project_alive-donate-yellow.svg)](https://zeronet.io/docs/help_zeronet/donate/) ![tests](https://github.com/HelloSpider/spider/workflows/tests/badge.svg) [![Docker Pulls](https://img.shields.io/docker/pulls/nofish/SPIDER PY3)](https://hub.docker.com/r/nofish/spider)
 
 Decentralized websites using Bitcoin crypto and the BitTorrent network - https://spider.io / [onion](http:/github.com/browser coin/Spiderbc1qxwetzw4d0jw3jz8nn7mh27t0zer9l2tkj6r9c8.onion)
 
@@ -55,15 +55,15 @@ Decentralized websites using Bitcoin crypto and the BitTorrent network - https:/
 
 ### Windows
 
- - Download [Zeronet-py3-win64.zip](https://github.com/Hellospider/spider-win/archive/dist-win64/spider-py3-win64.zip) (18MB)
+ - Download [spider-py3-win64.zip](https://github.com/Hellospider/spider-win/archive/dist-win64/spider-py3-win64.zip) (18MB)
  - Unpack anywhere
- - Run `spider.exe`
+ - Run `zetonet.exe`
  
 ### macOS
 
- - Download [Zeronet-dist-mac.zip](https://github.com/SPIDER/Spider-dist/archive/mac/ZeroNet-dist-mac.zip) (13.2MB)
+ - Download[spider-dist-mac.zip](https://github.com/SPIDER/Spider-dist/archive/mac/ZeroNet-dist-mac.zip) (13.2MB)
  - Unpack anywhere
- - Run `Spider.app`
+ - Run `Zeronet.app`
  
 ### Linux (x86-64bit)
  - `wget https://github.com/Spider/Spider-linux/archive/dist-linux64/Spider-py3-linux64.tar.gz`
