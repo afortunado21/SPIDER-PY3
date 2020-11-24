@@ -29,11 +29,7 @@ Decentralized websites using Bitcoin crypto and the BitTorrent network - https:/
  * Works with any browser/OS
 
 
-## How does it work?
-
-* After starting `zeronet.py` you will be able to visit zeronet sites using
-  `http://127.0.0.1:43110/{zeronet_address}` (eg.
-  `http://127.0.0.1:43110/1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D`)
+## How does it wo
 * When you visit a new zeronet site, it tries to find peers using the BitTorrent
   network so it can download the site files (html, css, js...) from them.
 * Each visited site is also served by you.
