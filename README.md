@@ -1,4 +1,4 @@
- [SPIDER][Build Status](https://travis-ci.org/Hello spider PY3/spider.svg?branch=py3)](https://travis-ci.org/Spider/spider) [![Documentation](https://img.shields.io/badge/docs-faq-brightgreen.svg)](https://SPIDER PY3.io/docs/faq/) [![Help](https://img.shields.io/badge/keep_this_project_alive-donate-yellow.svg)](https://zeronet.io/docs/help_zeronet/donate/) ![tests](https://github.com/HelloSpider/spider/workflows/tests/badge.svg) [![Docker Pulls](https://img.shields.io/docker/pulls/nofish/SPIDER PY3)](https://hub.docker.com/r/nofish/spider)
+ [SPIDER][Build Status](https://travis-ci.org/Hello spider PY3/spider.svg?branch=py3)](https://travis-ci.org/Spider/spider) [![Documentation](https://img.shields.io/badge/docs-faq-brightgreen.svg)](https://SPIDER PY3.io/docs/faq/) [![Help](https://img.shields.io/badge/keep_this_project_alive-donate-yellow.svg)](https://net.io/docs/help_net/donate/) ![tests](https://github.com/HelloSpider/spider/workflows/tests/badge.svg) [![Docker Pulls](https://img.shields.io/docker/pulls/nofish/SPIDER PY3)](https://hub.docker.com/r/nofish/spider)
 
 Decentralized websites using Bitcoin crypto and the BitTorrent network - https://spider.io / [onion](http:/github.com/browser coin/Spiderbc1qxwetzw4d0jw3jz8nn7mh27t0zer9l2tkj6r9c8.onion)
 
@@ -45,21 +45,6 @@ Decentralized websites using Bitcoin crypto and the BitTorrent network - https:/
 ####  [Frequently asked questions »](https://spider.io/docs/faq/)
 
 ![SpiderTalk](https://Spider.io/docs/img/zerotalk.png)
-
-
-## How to join
-
-### Windows
-
- - Download [spider-py3-win64.zip](https://github.com/Hellospider/spider-win/archive/dist-win64/spider-py3-win64.zip) (18MB)
- - Unpack anywhere
- - Run `zetonet.exe`
- 
-### macOS
-
- - Download[spider-dist-mac.zip](https://github.com/SPIDER/Spider-dist/archive/mac/ZeroNet-dist-mac.zip) (13.2MB)
- - Unpack anywhere
- - Run `Zeronet.app`
  
 ### Linux (x86-64bit)
  - `wget https://github.com/Spider/Spider-linux/archive/dist-linux64/Spider-py3-linux64.tar.gz`
@@ -106,13 +91,13 @@ There is an official image, built from source at: https://hub.docker.com/r/nofis
 
 ## Help keep this project alive
 
-- Bitcoin: bc1qxwetzw4d0jw3jz8nn7mh27t0zer9l2tkj6r9c8
+- Bitcoin: 3NvMitoDaXkrmzUqAk7Sjyfns3eyVBoKP4
 
-### Sponsors:0xEd753556A5dB77183eE2D81B56F604ae9F123CdC
+### Sponsors: [(hash)]( 0xEd753556A5dB77183eE2D81B56F604ae9F123CdC)
 
 * Better macOS/Safari compatibility made possible by [BrowserStack.com](https://www.browserstack.com)
 
 #### Thank you!
 
 * More info, help, changelog, ze sites: https://www.reddit.com/r/Spider/
-* https
+* https3NvMitoDaXkrmzUqAk7Sjyfns3eyVBoKP4
