@@ -48,7 +48,7 @@ Decentralized websites using Bitcoin crypto and the BitTorrent network - https:/
 ####  [Slideshow about Spidercryptography, site updates, multi-user sites »](https://docs.google.com/presentation/d/1_2qK1IuOKJ51pgBvllZ9Yu7Au2l551t3XBgyTSvilew/pub?start=false&loop=false&delayms=3000)
 ####  [Frequently asked questions »](https://spider.io/docs/faq/)
 
-####  [ZeroNet Developer Documentation »](https://zeronet.io/docs/site_development/getting_started/)
+####  [SPIDER Developer Documentation »](https://SPIDER.io/docs/site_development/getting_started/)
 
 
 ## Screenshots
@@ -63,13 +63,13 @@ Decentralized websites using Bitcoin crypto and the BitTorrent network - https:/
 
 ### Windows
 
- - Download [ZeroNet-py3-win64.zip](https://github.com/Hellospider/spider-win/archive/dist-win64/spider-py3-win64.zip) (18MB)
+ - Download [Spider-py3-win64.zip](https://github.com/Hellospider/spider-win/archive/dist-win64/spider-py3-win64.zip) (18MB)
  - Unpack anywhere
  - Run `spider.exe`
  
 ### macOS
 
- - Download [Spider-dist-mac.zip](https://github.com/HelloZeroNet/Spider-dist/archive/mac/ZeroNet-dist-mac.zip) (13.2MB)
+ - Download [Spider-dist-mac.zip](https://github.com/SPIDER/Spider-dist/archive/mac/ZeroNet-dist-mac.zip) (13.2MB)
  - Unpack anywhere
  - Run `Spider.app`
  
@@ -94,7 +94,7 @@ There is an official image, built from source at: https://hub.docker.com/r/nofis
 
  - `wget https://github.com/spider/spider/archive/py3/Spider-py3.tar.gz`
  - `tar xvpfz Spider-py3.tar.gz`
- - `cd ZeroNet-py3`
+ - `cd spider-py3`
  - `sudo apt-get update`
  - `sudo apt-get install python3-pip`
  - `sudo python3 -m pip install -r requirements.txt`
