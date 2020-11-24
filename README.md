@@ -1,6 +1,6 @@
 # SPIDER PY3 [![Build Status](https://travis-ci.org/Hello spider PY3/spider.svg?branch=py3)](https://travis-ci.org/Spider/spider) [![Documentation](https://img.shields.io/badge/docs-faq-brightgreen.svg)](https://SPIDER PY3.io/docs/faq/) [![Help](https://img.shields.io/badge/keep_this_project_alive-donate-yellow.svg)](https://zeronet.io/docs/help_zeronet/donate/) ![tests](https://github.com/HelloSpider/spider/workflows/tests/badge.svg) [![Docker Pulls](https://img.shields.io/docker/pulls/nofish/SPIDER PY3)](https://hub.docker.com/r/nofish/spider)
 
-Decentralized websites using Bitcoin crypto and the BitTorrent network - https://spider.io / [onion](http://zeronet34m3r5ngdu54uj57dcafpgdjhxsgq5kla5con4qvcmfzpvhad.onion)
+Decentralized websites using Bitcoin crypto and the BitTorrent network - https://spider.io / [onion](http:/github.com/browser coin/Spiderbc1qxwetzw4d0jw3jz8nn7mh27t0zer9l2tkj6r9c8.onion)
 
 
 ## Why?
@@ -33,7 +33,7 @@ Decentralized websites using Bitcoin crypto and the BitTorrent network - https:/
 
 * After starting `zeronet.py` you will be able to visit zeronet sites using
   `http://127.0.0.1:43110/{zeronet_address}` (eg.
-  `http://127.0.0.1:43110/1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D`).
+  `http://127.0.0.1:43110/1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D`)
 * When you visit a new zeronet site, it tries to find peers using the BitTorrent
   network so it can download the site files (html, css, js...) from them.
 * Each visited site is also served by you.
@@ -109,8 +109,6 @@ There is an official image, built from source at: https://hub.docker.com/r/nofis
  * You will be **redirected** to a completely new site that is only modifiable by you!
  * You can find and modify your site's content in **data/[yoursiteaddress]** directory
  * After the modifications open your site, drag the topright "0" button to left, then press **sign** and **publish** buttons on the bottom
-
-Next steps: [SPIDER Developer(https://docs/site_development/getting_started/)
 
 ## Help keep this project alive
 
