@@ -48,11 +48,9 @@ Decentralized websites using Bitcoin crypto and the BitTorrent network - https:/
 ####  [Slideshow about Spidercryptography, site updates, multi-user sites »](https://docs.google.com/presentation/d/1_2qK1IuOKJ51pgBvllZ9Yu7Au2l551t3XBgyTSvilew/pub?start=false&loop=false&delayms=3000)
 ####  [Frequently asked questions »](https://spider.io/docs/faq/)
 
-####  [SPIDER Developer Documentation »](https://SPIDER.io/docs/site_development/getting_started/)
+####    (https://SPIDER.io/docs/site_development/getting_started/)
 
 ![SpiderTalk](https://Spider.io/docs/img/zerotalk.png)
-
-#### [More screenshots in ZeroNet docs »](https://spider.io/docs/using_zeronet/sample_sites/)
 
 
 ## How to join
