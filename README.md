@@ -50,10 +50,6 @@ Decentralized websites using Bitcoin crypto and the BitTorrent network - https:/
 
 ####  [SPIDER Developer Documentation »](https://SPIDER.io/docs/site_development/getting_started/)
 
-
-## Screenshots
-
-![Screenshot](https://i.imgur.com/H60OAHY.png)
 ![SpiderTalk](https://Spider.io/docs/img/zerotalk.png)
 
 #### [More screenshots in ZeroNet docs »](https://spider.io/docs/using_zeronet/sample_sites/)
@@ -63,19 +59,19 @@ Decentralized websites using Bitcoin crypto and the BitTorrent network - https:/
 
 ### Windows
 
- - Download [Spider-py3-win64.zip](https://github.com/Hellospider/spider-win/archive/dist-win64/spider-py3-win64.zip) (18MB)
+ - Download [Zeronet-py3-win64.zip](https://github.com/Hellospider/spider-win/archive/dist-win64/spider-py3-win64.zip) (18MB)
  - Unpack anywhere
  - Run `spider.exe`
  
 ### macOS
 
- - Download [Spider-dist-mac.zip](https://github.com/SPIDER/Spider-dist/archive/mac/ZeroNet-dist-mac.zip) (13.2MB)
+ - Download [Zeronet-dist-mac.zip](https://github.com/SPIDER/Spider-dist/archive/mac/ZeroNet-dist-mac.zip) (13.2MB)
  - Unpack anywhere
  - Run `Spider.app`
  
 ### Linux (x86-64bit)
  - `wget https://github.com/Spider/Spider-linux/archive/dist-linux64/Spider-py3-linux64.tar.gz`
- - `tar xvpfz ZeroNet-py3-linux64.tar.gz`
+ - `tar xvpfz Spider-py3-linux64.tar.gz`
  - `cd ZeroNet-linux-dist-linux64/`
  - Start with: `./Spider.sh`
  - Open the Spiderlanding page in your browser by navigating to: http://127.0.0.1:43110/
