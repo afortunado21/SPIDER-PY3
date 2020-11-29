@@ -1,14 +1,14 @@
- [SPIDER][Build Status](https://travis-ci.org/Hello spider PY3/spider.svg?branch=py3)](https://travis-ci.org/Spider/spider) [![Documentation](https://img.shields.io/badge/docs-faq-brightgreen.svg)](https://SPIDER PY3.io/docs/faq/) [![Help](https://img.shields.io/badge/keep_this_project_alive-donate-yellow.svg)](https://zeronet.io/docs/help_zeronet/donate/) ![tests](https://github.com/HelloSpider/spider/workflows/tests/badge.svg) [![Docker Pulls](https://img.shields.io/docker/pulls/nofish/SPIDER PY3)](https://hub.docker.com/r/nofish/spider)
+ [BITCOIN BROWSER][Build Status](https://travis-ci.org/Hello Bitcoin Browser/Bitcoin Browser.svg?branch=Browser)](https://travis-ci.org/Bitcoin Browser/Bitcoin Browser) [![Documentation](https://img.shields.io/badge/docs-faq-brightgreen.svg)](https://Bitcoin Browser.io/docs/faq/) [![Help](https://img.shields.io/badge/keep_this_project_alive-donate-yellow.svg)](https://Bitcoin Browser.io/docs/help_Bitcoin Browser/donate/) ![tests](https://github.com/HelloBitcoin Browser/Bitcoin Browser/workflows/tests/badge.svg) [![Docker Pulls](https://img.shields.io/docker/pulls/nofish/Bitcoin Browser)](https://hub.docker.com/r/nofish/Bitcoin Browser)
 
-Decentralized websites using Bitcoin crypto and the BitTorrent network - https://spider.io / [onion](http:/github.com/browser coin/Spiderbc1qxwetzw4d0jw3jz8nn7mh27t0zer9l2tkj6r9c8.onion)
+Decentralized websites using Bitcoin crypto and Bitcoin Browser network - https://.io / [onion](http:/github.com/browser coin/Bitcoi Browser bc1qxwetzw4d0jw3jz8nn7mh27t0zer9l2tkj6r9c8.onion)
 
 *RECENT CHANGES:
 * 
-* (16 Apr 2013) Added private derivation for i ≥ 0x80000000 (less risk of parent private key leakage)
-* (30 Apr 2013) Switched from multiplication by I<sub>L</sub> to addition of I<sub>L</sub> (faster, easier implementation)
-* (25 May 2013) Added test vectors
-* (15 Jan 2014) Rename keys with index ≥ 0x80000000 to hardened keys, and add explicit conversion functions.
-* (24 Feb 2017) Added test vectors for hardened derivation with leading zeros
+*  Added private derivation for i ≥ 0x80000000 (less risk of parent private key leakage)
+*  Switched from multiplication by I<sub>L</sub> to addition of I<sub>L</sub> (faster, easier implementation)
+*  Added test vectors
+*  Rename keys with index ≥ 0x80000000 to hardened keys, and add explicit conversion functions.
+*  Added test vectors for hardened derivation with leading zeros
 
 <pre>
   BIP: 32
@@ -37,7 +37,7 @@ This BIP is licensed under the 2-clause BSD license.
 
 ==Motivation==
 
-The Bitcoin reference client uses randomly generated keys. In order to avoid the necessity for a backup after every transaction, (by default) 100 keys are cached in a pool of reserve keys. Still, these wallets are not intended to be shared and used on several systems simultaneously. They support hiding their private keys by using the wallet encrypt feature and not sharing the password, but such "neutered" wallets lose the power to generate public keys as well.
+The Genesis of  Bitcoin Browser use the same that Bitcoin  reference client uses randomly generated keys. In order to avoid the necessity for a backup after every transaction, (by default) 100 keys are cached in a pool of reserve keys. Still, these wallets are not intended to be shared and used on several systems simultaneously. They support hiding their private keys by using the wallet encrypt feature and not sharing the password, but such "neutered" wallets lose the power to generate public keys as well.
 
 Deterministic wallets do not require such frequent backups, and elliptic curve mathematics permit schemes where one can calculate the public keys without revealing the private keys. This permits for example a webshop business to let its webserver generate fresh addresses (public key hashes) for each order or for each customer, without giving the webserver access to the corresponding private keys (which are required for spending the received funds).
 
@@ -308,11 +308,11 @@ Seed (hex): 4b381541583be4423346c643850da4b320e46a87ae3d2a4e6da11eba819cd4acba45
  * TLS encrypted connections
  * Automatic uPnP port opening
  * Plugin for multiuser (openproxy) support
- * Works with any browser/OS
+ * Works with Bitcoin browser/OS
 
 
 ## How does it wo
-* When you visit a new zeronet site, it tries to find peers using the BitTorrent
+* When you visit a new Bitcoin Browser site, it tries to find peers using 
   network so it can download the site files (html, css, js...) from them.
 * Each visited site is also served by you.
 * Every site contains a `content.json` file which holds all other files in a sha512 hash
@@ -320,41 +320,42 @@ Seed (hex): 4b381541583be4423346c643850da4b320e46a87ae3d2a4e6da11eba819cd4acba45
 * If the site owner (who has the private key for the site address) modifies the
   site, then he/she signs the new `content.json` and publishes it to the peers.
   Afterwards, the peers verify the `content.json` integrity (using the
+Q
   signature), they download the modified files and publish the new content to
   other peers.
 
-####  [Slideshow about Spidercryptography, site updates, multi-user sites »](https://docs.google.com/presentation/d/1_2qK1IuOKJ51pgBvllZ9Yu7Au2l551t3XBgyTSvilew/pub?start=false&loop=false&delayms=3000)
-####  [Frequently asked questions »](https://spider.io/docs/faq/)
+####  [Slideshow about Bitcoin Browser cryptography, site updates, multi-user sites »](https://docs.google.com/presentation/d/1_2qK1IuOKJ51pgBvllZ9Yu7Au2l551t3XBgyTSvilew/pub?start=false&loop=false&delayms=3000)
+####  [Frequently asked questions »](https://Browser Bitcoin.io/docs/faq/)
 
-![SpiderTalk](https://Spider.io/docs/img/zerotalk.png)
+![Bitcoin BrowserTalk](https://Bitcoin Browser.io/docs/img/zerotalk.png)
  
 ### Linux (x86-64bit)
- - `wget https://github.com/Spider/Spider-linux/archive/dist-linux64/Spider-py3-linux64.tar.gz`
- - `tar xvpfz Spider-py3-linux64.tar.gz`
- - `cd ZeroNet-linux-dist-linux64/`
- - Start with: `./Spider.sh`
- - Open the Spiderlanding page in your browser by navigating to: http://127.0.0.1:43110/
+ - `wget https://github.com/ Bitcoin Broser/Bitcoin Browser-linux/archive/dist-linux64/ Bitcoin Browser -linux64.tar.gz`
+ - `tar xvpfz Browser Bitcoin-linux64.tar.gz`
+ - `cd Browser q-linux-dist-linux64/`
+ - Start with: `./Browser Bitcoin.sh`
+ - Open the Browser Bitcoin landing page in your browser by navigating to: http://github.com/BROWSER-COIN
  
- __Tip:__ Start with `./SPIDER.sh --ui_ip '*' --ui_restrict your.ip.address` to allow remote connections on the web interface.
+ __Tip:__ Start with `./Bitcoin Browser.sh --ui_ip '*' --ui_restrict your.ip.address` to allow remote connections on the web interface.
  
  ### Android (arm, arm64, x86)
  - minimum Android version supported 16 (JellyBean).
- - APK download: https://github.com/canewsin/spider_mobile/releases
+ - APK download: https://github.com/canewsin/Browser Bitcoin_mobile/releases
  - 
  
 #### Docker
-There is an official image, built from source at: https://hub.docker.com/r/nofish/spider/
+There is an official image, built from source at: https://hub.docker.com/r/nofish/Bitcoin Browser/
 
 ### Install from source
 
- - `wget https://github.com/spider/spider/archive/py3/Spider-py3.tar.gz`
- - `tar xvpfz Spider-py3.tar.gz`
- - `cd spider-py3`
+ - `wget https://github.com/Browser Bitcoin/Bitcoin Browser/archive/Browser/Bitcoin Browser.tar.gz`
+ - `tar xvpfz Browser Bitcoin.tar.gz`
+ - `cd Bitcoin Browser`
  - `sudo apt-get update`
  - `sudo apt-get install python3-pip`
  - `sudo python3 -m pip install -r requirements.txt`
- - Start with: `python3 spider.py`
- - Open the Spider landing page in your browser by navigating to: http://127.0.0.1:43110/
+ - Start with: `python3 Browser`
+ - Open the Bitcoin Browser landing page in your browser by navigating to: http://github.com/BROWSER-COIN
 
 ## Current limitations
 
@@ -364,9 +365,9 @@ There is an official image, built from source at: https://hub.docker.com/r/nofis
 * No private sites
 
 
-## How can I create a SPIDER site?
+## How can I create a Bitcoin Browser site?
 
- * Click on **⋮** > **"Create new, empty site"** menu item on the site [SPIDER](http://127.0.0.1:43110/1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D).
+ * Click on **⋮** > **"Create new, empty site"** menu item on the site [Bitcoin Browser](http://www.Bitcoin Browser.com).
  * You will be **redirected** to a completely new site that is only modifiable by you!
  * You can find and modify your site's content in **data/[yoursiteaddress]** directory
  * After the modifications open your site, drag the topright "0" button to left, then press **sign** and **publish** buttons on the bottom
@@ -381,5 +382,5 @@ There is an official image, built from source at: https://hub.docker.com/r/nofis
 
 #### Thank you!
 
-* More info, help, changelog, ze sites: https://www.reddit.com/r/Spider/
+* More info, help, changelog, ze sites: https://www.reddit.com/r/Bitcoin Browser/
 * https3NvMitoDaXkrmzUqAk7Sjyfns3eyVBoKP4
