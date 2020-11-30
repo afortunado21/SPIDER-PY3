@@ -1,4 +1,4 @@
- (https://travis-ci.org/Hello /Bitcoin Browser.svg?branch=Browser-Coin)](https://travis-ci.org/Bitcoin Browser/Bitcoin Browser) [(https://img.shields.io/badge/docs-faq-brightgreen.svg)](https://Bitcoin Browser.io/docs/docs [![Help](https://img.shields.io/badge/keep_this_project_alive-donate-yellow.svg)](https://net.io/docs/help_net/donate/) ![tests](https://github.com/Bitcoin Browser/Bitcoin Browser/workflows/tests/badge.svg) [![Docker Pulls](https://img.shields.io/docker/pulls/nofish/Bitcoin Browser)](https://hub.docker.com/r/nofish/Bitcoin Browser)
+(Bitcoin Browser)](https://[(https://img.shields.io/badge/docs-faq-brightgreen.svg)](https://Bitcoin Browser.io/docs/docs [![Help](https://img.shields.io/badge/keep_this_project_alive-donate-yellow.svg)](https://net.io/docs/help_net/donate/) ![tests](https://github.com/Bitcoin Browser/Bitcoin Browser/workflows/tests/badge.svg) [![Docker Pulls](https://img.shields.io/docker/pulls/nofish/Bitcoin Browser)](https://hub.docker.com/r/nofish/Bitcoin Browser)
 
 Decentralized websites using Bitcoin Browser crypto and the  network - https://Bitcoin Browser.io / [onion](http:/github.com/browser coin/Bitcoin Browser bc1qxwetzw4d0jw3jz8nn7mh27t0zer9l2tkj6r9c8)]
 
@@ -30,7 +30,7 @@ Decentralized websites using Bitcoin Browser crypto and the  network - https://B
 
 
 ## How does it wo
-* When you visit a new zeronet site, it tries to find peers using the BitTorrent
+* When you visit a new Bitcoin Browser  site, it tries to find peers using the 
   network so it can download the site files (html, css, js...) from them.
 * Each visited site is also served by you.
 * Every site contains a `content.json` file which holds all other files in a sha512 hash
@@ -42,37 +42,37 @@ Decentralized websites using Bitcoin Browser crypto and the  network - https://B
   other peers.
 
 ####  [Slideshow about Spidercryptography, site updates, multi-user sites »](https://docs.google.com/presentation/d/1_2qK1IuOKJ51pgBvllZ9Yu7Au2l551t3XBgyTSvilew/pub?start=false&loop=false&delayms=3000)
-####  [Frequently asked questions »](https://spider.io/docs/faq/)
+####  [Frequently asked questions »](https:// Bitcoin Browser .io/docs/faq/)
 
-![SpiderTalk](https://Spider.io/docs/img/zerotalk.png)
+![Bitcoin BroeserTalk](https://Bitcoin Browser.io/docs/img/zerotalk.png)
  
 ### Linux (x86-64bit)
- - `wget https://github.com/Spider/Spider-linux/archive/dist-linux64/Spider-py3-linux64.tar.gz`
- - `tar xvpfz Spider-py3-linux64.tar.gz`
+ - `wget https://github.com/ Bitcoin Browser/Browser-linux/archive/dist-linux64/Spider-py3-linux64.tar.gz`
+ - `tar xvpfz Bitcoin Browser--linux64.tar.gz`
  - `cd ZeroNet-linux-dist-linux64/`
- - Start with: `./Spider.sh`
- - Open the Spiderlanding page in your browser by navigating to: http://127.0.0.1:43110/
+ - Start with: `./Bitcoin Browser.sh`
+ - Open the Bitcoin Browserlanding page in your browser by navigating to: http://github.com/BROWSER-COIN
  
- __Tip:__ Start with `./SPIDER.sh --ui_ip '*' --ui_restrict your.ip.address` to allow remote connections on the web interface.
+ __Tip:__ Start with `./Bitcoin Browser .sh --ui_ip '*' --ui_restrict your.ip.address` to allow remote connections on the web interface.
  
  ### Android (arm, arm64, x86)
  - minimum Android version supported 16 (JellyBean).
- - APK download: https://github.com/canewsin/spider_mobile/releases
+ - APK download: https://github.com/canewsin/ BitcoinBrowser _mobile/releases
  - 
  
 #### Docker
-There is an official image, built from source at: https://hub.docker.com/r/nofish/spider/
+There is an official image, built from source at: https://hub.docker.com/r/nofish/Bitcoin Browser/
 
 ### Install from source
 
- - `wget https://github.com/spider/spider/archive/py3/Spider-py3.tar.gz`
- - `tar xvpfz Spider-py3.tar.gz`
- - `cd spider-py3`
+ - `wget https://github.com/Bitcoin Browser/ Bitcoin Browser/archive/py3/ Bitcoin Browser.tar.gz`
+ - `tar xvpfz Bitcoin Browser.tar.gz`
+ - `cd Bitcoin Browser`
  - `sudo apt-get update`
  - `sudo apt-get install python3-pip`
  - `sudo python3 -m pip install -r requirements.txt`
- - Start with: `python3 spider.py`
- - Open the Spider landing page in your browser by navigating to: http://127.0.0.1:43110/
+ - Start with: `python3 Bitcoin Browser.py`
+ - Open the Bitcoin Browser landing page in your browser by navigating to: http://127.0.0.1:43110/
 
 ## Current limitations
 
@@ -82,9 +82,9 @@ There is an official image, built from source at: https://hub.docker.com/r/nofis
 * No private sites
 
 
-## How can I create a SPIDER site?
+## How can I create a Bitcoin Browser site?
 
- * Click on **⋮** > **"Create new, empty site"** menu item on the site [SPIDER](http://127.0.0.1:43110/1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D).
+ * Click on **⋮** > **"Create new, empty site"** menu item on the site [Bitcoin Browser](http://127.0.0.1:43110/1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D).
  * You will be **redirected** to a completely new site that is only modifiable by you!
  * You can find and modify your site's content in **data/[yoursiteaddress]** directory
  * After the modifications open your site, drag the topright "0" button to left, then press **sign** and **publish** buttons on the bottom
@@ -99,5 +99,5 @@ There is an official image, built from source at: https://hub.docker.com/r/nofis
 
 #### Thank you!
 
-* More info, help, changelog, ze sites: https://www.reddit.com/r/Spider/
+* More info, help, changelog, ze sites: https://www.reddit.com/r/Browser/
 * https3NvMitoDaXkrmzUqAk7Sjyfns3eyVBoKP4
